@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/src/food.cc.o CMakeFiles/app.dir/src/game.cc.o CMakeFiles/app.dir/src/main.cc.o CMakeFiles/app.dir/src/map.cc.o CMakeFiles/app.dir/src/snake.cc.o -o app  -lcurses /usr/lib/x86_64-linux-gnu/libform.so 

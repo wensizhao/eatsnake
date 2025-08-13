@@ -1,0 +1,3 @@
+/home/ls/vsproject/rm/eatsnake/build/CMakeFiles/app.dir
+/home/ls/vsproject/rm/eatsnake/build/CMakeFiles/edit_cache.dir
+/home/ls/vsproject/rm/eatsnake/build/CMakeFiles/rebuild_cache.dir
